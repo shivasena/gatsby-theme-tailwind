@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "workspaces": [
+    "gatsby-theme-tailwindcss",
+    "site"
+  ],
+  "dependencies": {
+    "joi": "^17.4.0",
+    "uuid": "^3.4.0"
+  }
+}
